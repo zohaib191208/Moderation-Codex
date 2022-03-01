@@ -56,8 +56,6 @@ If someone is self advertising or advertising something else, delete their messa
 If you catch someone being racist or being toxic for no reason just mute them for a long time. Racisim is tolerated and should no way be used for no reason or using it in an argument. Speaking of arugments, if people are arguing and taking it too far simply tell them to stop. If they carry on mute them for 10 minutes and if they still carry on it'll result in a further punishment. Same goes to other stuff like sexisim etc.
 ### Mod abuse/Power abuse
 If a mod for example is abusing their power, tell them to stop. If they are still carrying on, let an admin or higher role know. Moderators followe the rules exactly the same as members, just because your a moderator doesent mean you shouldnt follow certain rules.
-## Moral
-To end, its best to just enjoy the server, keeping it a safe place and mainly having fun and enjoying yourself!
 ## Credit
 ### Owner
 1. `Error Pingouin`
